@@ -64,8 +64,10 @@ python blackjack.py
 
 Policy tables and performance graphs are saved as PNG files in the `/images` folder. These include:
 
-- `policy_usable_ace_*.png`
-- `wins_losses_draws_*.png`
-- `dealer_advantage_*.png`
+![image](https://github.com/user-attachments/assets/9f339992-6016-4f4d-8427-42162f035d40)
+![image](https://github.com/user-attachments/assets/1d053aa3-2fb5-4547-894f-8ad0466161a8)
+![image](https://github.com/user-attachments/assets/b80ec389-cf08-476d-889b-bd3115227963)
+
+
 
 ---
